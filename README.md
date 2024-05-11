@@ -19,26 +19,24 @@ Welcome to my repository :) Below is a list of certificates I have earned throug
 
 3. **Gold Medalist in IIT Bombay Techfest CA Program🥇(Internship)**
    
-~ Social Media Management: Spearheading campaigns across platforms.
-~ Analyzing Trends: Optimizing strategies through data insights.
-~ Organizing Events/Workshops: Ensuring seamless execution.
-~ Conducting Workshops/Sessions: Inspiring peers in STEM.
+- Social Media Management: Spearheading campaigns across platforms.
+- Analyzing Trends: Optimizing strategies through data insights.
+- Organizing Events/Workshops: Ensuring seamless execution.
+- Conducting Workshops/Sessions: Inspiring peers in STEM.
 
 5. **Data Science & Business Analytics internData Science & Business Analytics intern**
    The Sparks Foundation · Internship
    
-• Data Preparation with Python
-• Harnessing Machine Learning for Insight
-• Visualizing Insights with Tableau
-• Understanding Implications for Action
-• Empowering Stakeholders for Impact
+- Data Preparation with Python
+- Harnessing Machine Learning for Insight
+- Visualizing Insights with Tableau
+- Understanding Implications for Action
+- Empowering Stakeholders for Impact
 
 6. **Data Science ResearcherData Science Researcher**
 Ioncure Tech Pvt. Ltd. · InternshipIoncure Tech Pvt. Ltd. · Internship
 
--As a Data Science Research Intern at Ioncure Tech Pvt Ltd, I am embarking on an exciting journey to leverage the 
- power of data and technology in the pursuit of reducing the suffering caused by epilepsy. My role is multi-faceted 
- and promises growth, learning, and meaningful contributions to the field.
+- As a Data Science Research Intern at Ioncure Tech Pvt Ltd, I am embarking on an exciting journey to leverage the power of data and technology in the pursuit of reducing the suffering caused by epilepsy. My role is multi-faceted  and promises growth, learning, and meaningful contributions to the field.
 
 7. **Business Data Analyst PW (PhysicsWallah) · Internship**
 
@@ -53,11 +51,10 @@ Ioncure Tech Pvt. Ltd. · InternshipIoncure Tech Pvt. Ltd. · Internship
 
 9. **Fundraising VolunteerFundraising Volunteer : Pawzz FoundationPawzz Foundation (Internship)**
 
-- I had the opportunity to contribute to various campaigns aimed at helping stray animals in need. From fundraising 
-  efforts to spreading awareness, every task has been immensely fulfilling.
+- I had the opportunity to contribute to various campaigns aimed at helping stray animals in need. From fundraising efforts to spreading awareness, every task has been immensely fulfilling.
 
 
-#And many more 
+# And many more 
 
 ## Contact Information
 
