@@ -17,7 +17,7 @@ Welcome to my repository :) Below is a list of certificates I have earned throug
 - Organizing Events/Workshops: Ensuring seamless execution.
 - Conducting Workshops/Sessions: Inspiring peers in STEM.
 
-5. **Data Science & Business Analytics internData Science & Business Analytics intern**
+3. **Data Science & Business Analytics internData Science & Business Analytics intern**
    The Sparks Foundation · Internship
    
 - Data Preparation with Python
@@ -26,12 +26,12 @@ Welcome to my repository :) Below is a list of certificates I have earned throug
 - Understanding Implications for Action
 - Empowering Stakeholders for Impact
 
-6. **Data Science ResearcherData Science Researcher**
+4. **Data Science ResearcherData Science Researcher**
 Ioncure Tech Pvt. Ltd. · InternshipIoncure Tech Pvt. Ltd. · Internship
 
 - As a Data Science Research Intern at Ioncure Tech Pvt Ltd, I am embarking on an exciting journey to leverage the power of data and technology in the pursuit of reducing the suffering caused by epilepsy. My role is multi-faceted  and promises growth, learning, and meaningful contributions to the field.
 
-7. **Business Data Analyst PW (PhysicsWallah) · Internship**
+5. **Business Data Analyst PW (PhysicsWallah) · Internship**
 
 - Analyzing Amazon Sales data to reduce costs and increase profits.
 - In this project, I used my skills in Excel and Python to dive deep into Amazon's sales data. My primary focus will 
@@ -40,9 +40,9 @@ Ioncure Tech Pvt. Ltd. · InternshipIoncure Tech Pvt. Ltd. · Internship
   data visualizations. These visuals will not only help us understand sales trends but also uncover insights that can 
   drive strategic decisions.
 
-8.**DATA ANALYTICSDATA ANALYTICS (Pantech.AI · Internship)**
+6.**DATA ANALYTICSDATA ANALYTICS (Pantech.AI · Internship)**
 
-9. **Fundraising VolunteerFundraising Volunteer : Pawzz FoundationPawzz Foundation (Internship)**
+7. **Fundraising VolunteerFundraising Volunteer : Pawzz FoundationPawzz Foundation (Internship)**
 
 - I had the opportunity to contribute to various campaigns aimed at helping stray animals in need. From fundraising efforts to spreading awareness, every task has been immensely fulfilling.
 
