@@ -9,15 +9,8 @@ Welcome to my repository :) Below is a list of certificates I have earned throug
 - Analysed data to target high-value customers based on demographics and attributes
 - Developed dashboards to communicate findings with visuals
 
-2. **Accenture North America Data Analytics and Visualization Job Simulation on Forage**
 
-- Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
-- Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
-- Prepared a PowerPoint deck and video presentation to communicate key insights for the clients
-- These newfound skills have transformed me into a more capable and confident data professional, and I'm excited to 
-  apply these skills to solve real-world challenges.
-
-3. **Gold Medalist in IIT Bombay Techfest CA Program🥇(Internship)**
+2. **Gold Medalist in IIT Bombay Techfest CA Program🥇(Internship)**
    
 - Social Media Management: Spearheading campaigns across platforms.
 - Analyzing Trends: Optimizing strategies through data insights.
