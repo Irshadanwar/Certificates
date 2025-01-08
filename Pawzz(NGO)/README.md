@@ -49,12 +49,3 @@ This repository features my achievements during the **Fundraising Internship** w
 **Pawzz Foundation** is a nonprofit organization dedicated to animal welfare. They focus on rescuing, rehabilitating, and rehoming stray animals, ensuring they receive proper care and support.  
 
 ---
-
-## 📎 Contact Information  
-**Akash Kumar**  
-- **Designation**: Managing Director at Pawzz Foundation  
-- **Email**: akash@pawzz.org  
-- **Phone**: 8595577199  
-- **Address**: Sector 43, Gurugram, Haryana  
-- **Registered ID**: AAMCP9326KF202211  
-
