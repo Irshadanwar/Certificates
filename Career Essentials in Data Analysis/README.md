@@ -6,7 +6,7 @@ This repository highlights my successful completion of the Career Essentials in 
 📜 Certification Details
 Program Name: Career Essentials in Data Analysis
 Offered By: Microsoft and LinkedIn
-Completed By: MD Irshad Anwar
+
 🎯 Top Skills Acquired
 Data Analysis:
 
