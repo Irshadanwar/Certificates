@@ -1,7 +1,3 @@
-Here’s a draft README to showcase your **Certificate of Completion** and **Letter of Recommendation (LOR)** for your internship with Pawzz:  
-
----
-
 # 🐾 Fundraising Internship with Pawzz  
 
 ### **Certificate of Completion**  
