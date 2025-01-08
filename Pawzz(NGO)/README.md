@@ -58,6 +58,3 @@ This repository features my achievements during the **Fundraising Internship** w
 - **Address**: Sector 43, Gurugram, Haryana  
 - **Registered ID**: AAMCP9326KF202211  
 
----
-
-Feel free to share any feedback or let me know if you'd like to include the actual certificate and LOR files in the repository.
