@@ -1,7 +1,3 @@
-Here’s a draft README to showcase your **Internship Experience Letter** from Physics Wallah Pvt. Ltd.:  
-
----
-
 # 📊 Amazon Sales Data Analysis Internship  
 
 ### **Internship Experience Letter**  
