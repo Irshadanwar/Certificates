@@ -49,8 +49,8 @@ Ioncure Tech Pvt. Ltd. · InternshipIoncure Tech Pvt. Ltd. · Internship
 
 # And many more 
 
-## Contact Information
-
-- LinkedIn: https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/
+## 🤝 **Connect with Me**  
+- 💼 LinkedIn: [Md Irshad Anwar](https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/)  
+- 🌟 YouTube: [AI by IITian](https://youtube.com/@aibyiitian?si=Xjp9KndvzCzihj2e)  
 
 Feel free to reach out to me if you have any questions or if you'd like to connect :)
