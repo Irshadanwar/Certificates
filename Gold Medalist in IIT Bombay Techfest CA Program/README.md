@@ -41,5 +41,3 @@ This certificate recognizes my exceptional efforts in:
 > - **Prof. R.K. Pant**, Faculty Advisor, Techfest, IIT Bombay.  
 
 ---
-
-Feel free to share your feedback or let me know if you'd like to attach the **Certificate of Appreciation** directly to the repository!  
