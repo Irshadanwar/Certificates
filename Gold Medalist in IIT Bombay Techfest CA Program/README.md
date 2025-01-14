@@ -1,5 +1,3 @@
-Here's a draft README to showcase your achievement and experience as a **Gold Medalist in IIT Bombay Techfest CA Program**:  
-
 ---
 
 # 🥇 **Gold Medalist in IIT Bombay Techfest CA Program**  
