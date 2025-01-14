@@ -28,9 +28,12 @@ This certificate recognizes my exceptional efforts in:
 
 ---
 
-## 🏢 About Techfest, IIT Bombay  
-**Techfest, IIT Bombay**, is Asia's largest science and technology festival, attracting participation from students and professionals worldwide. As a College Ambassador, I had the opportunity to contribute to the promotion, organization, and successful execution of various activities.  
+🏢 About Techfest, IIT Bombay
+Techfest, IIT Bombay, is Asia's largest science and technology festival, attracting participation from students and professionals worldwide.
 
+Visit the official Techfest website: https://techfest.org/
+Explore the CA Program: https://ca.techfest.org/
+As a College Ambassador, I had the opportunity to contribute to the promotion, organization, and successful execution of various activities.
 ---
 
 ## 🎖 Certificate Details  
