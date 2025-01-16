@@ -1,7 +1,3 @@
-Here’s a polished **README.md** for your KPMG-AU-Data-Analytics-Virtual-Internship repository:
-
----
-
 # KPMG AU Data Analytics Virtual Internship
 
 This repository contains my work and solutions for the **KPMG AU Data Analytics Virtual Internship** offered by **Forage** in **September 2023**. The program provided an immersive, hands-on learning experience, simulating real-world tasks performed by the **Data, Analytics & Modelling team** at KPMG.  
