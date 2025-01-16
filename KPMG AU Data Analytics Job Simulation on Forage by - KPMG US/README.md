@@ -91,8 +91,4 @@ Here’s a personalized response for the common interview question:
 
 ---
 
-Feel free to explore the repository to see the detailed work and solutions. Feedback is always welcome!  
-
---- 
-
-Let me know if you'd like further modifications or additions!
+Feel free to explore the repository to see the detailed work and solutions. Feedback is always welcome ❤️
