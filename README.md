@@ -1,7 +1,3 @@
-Here’s a comprehensive **README.md** for all the experiences, certificates, and projects you have mentioned:  
-
----
-
 # **Md Irshad Anwar - Portfolio of Achievements and Experiences**  
 
 Welcome to my portfolio repository! This repository contains a collection of my certificates, achievements, internships, and professional development programs. It reflects my journey as a **data science researcher, business analyst, and social worker**.  
