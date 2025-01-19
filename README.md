@@ -97,7 +97,3 @@ Welcome to my portfolio repository! This repository contains a collection of my 
 **LinkedIn**: [LinkedIn Profile](#)  
 
 Feel free to explore the repository and reach out for collaborations, feedback, or networking opportunities.  
-
---- 
-
-Let me know if you want additional sections or edits!
